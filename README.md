@@ -20,9 +20,7 @@
 - 🌱 I’m currently learning more about Full Stack Data Science.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Data & Technologies or any tech related stuff.
-- 📫 How to reach me: 
-- [Linkedin - @Surajkumar](https://www.linkedin.com/in/suraj-kumar-372048203)
-- Email: surajkumar0892@gmail.com
+- 📫 How to reach me: [Linkedin - @Surajkumar](https://www.linkedin.com/in/suraj-kumar-372048203)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
