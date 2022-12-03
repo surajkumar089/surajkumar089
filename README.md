@@ -16,7 +16,7 @@
 
 
 
-- 🔭 Data & Technologies.
+- 🔭 Data Engineer, Data Science & Data Technologies Enthusiast.
 - 🌱 I’m currently learning more about Full Stack Data Science.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Data & Technologies or any tech related stuff.
