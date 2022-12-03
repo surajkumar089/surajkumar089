@@ -13,6 +13,9 @@
 
 <br/>
 <br/>
+
+
+
 - 🔭 Data & Technologies.
 - 🌱 I’m currently learning more about Full Stack Data Science.
 - 🤔 I’m looking for help with career guidance.
@@ -20,9 +23,12 @@
 - 📫 How to reach me: [Linkedin - @Surajkumar](https://www.linkedin.com/in/suraj-kumar-372048203)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
+- 
 - [![Linkedin: MoneshVenkul](https://img.shields.io/badge/-Suraj Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/suraj-kumar-372048203)](https://www.linkedin.com/in/suraj-kumar-372048203)
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=suraj-kumar-372048203" target="_blank">Follow on LinkedIn</a>
 [![GitHub MoneshVenkul](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/surajkumar089)
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajkumar089&theme=radical)
 <!--
