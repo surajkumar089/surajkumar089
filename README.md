@@ -1,4 +1,4 @@
-## Hello, I'm [Suraj Kumar!] 👋
+## Hello, I'm Suraj Kumar! 👋
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="surajkumar089" /> </p>
