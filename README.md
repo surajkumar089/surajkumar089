@@ -27,7 +27,7 @@
 [![Linkedin: Suraj Kumar](https://img.shields.io/badge/-SurajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-372048203/)](https://www.linkedin.com/in/suraj-kumar-372048203/)
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=suraj-kumar-372048203" target="_blank">Follow on LinkedIn</a>
 [![GitHub SurajKumar](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/surajkumar089)
-Email: (surajkumar0892@gmail.com)
+Email: surajkumar0892@gmail.com
 
 
 
