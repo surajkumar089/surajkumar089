@@ -1,10 +1,8 @@
 ## Hello, I'm Suraj Kumar! 👋
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajkumar089&label=Views&color=blue&style=plastic" alt="surajkumar089" /> </p>
-iampawan
-[![](https://visitcount.itsvg.in/api?id=surajkumar089&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://visitor-badge.glitch.me/badge?page_id=surajkumar089.surajkumar089)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="surajkumar089" /> </p>
+
 
 <a href="https://www.linkedin.com/in/suraj-kumar-372048203">
   <img align="left" alt="Suraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
