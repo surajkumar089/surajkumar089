@@ -24,7 +24,7 @@
 - ⚡ Fun fact: "I am passionate about technology, innovation, and big challenging tasks on my to do list."
 
 # 💻 Tech Stack:
-[]<img src="https://img.icons8.com/color/48/null/python--v1.png"/> ![](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png)
+[]<img src="https://img.icons8.com/color/48/null/python--v1.png"/> ![](https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3/48.png)
 
 [![Linkedin: Suraj Kumar](https://img.shields.io/badge/-SurajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-372048203/)](https://www.linkedin.com/in/suraj-kumar-372048203/)
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=suraj-kumar-372048203" target="_blank">Follow on LinkedIn</a>
