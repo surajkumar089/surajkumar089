@@ -1,7 +1,7 @@
 # Hello, I'm Suraj Kumar! 👋
 
 [![](https://visitcount.itsvg.in/api?id=surajkumar089&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://visitor-badge.glitch.me/badge?page_id=surajkumar089.surajkumar089)
+![](https://visitor-badge.glitch.me/badge?page_id=surajkumar089)
 
 
 
