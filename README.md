@@ -23,15 +23,17 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: "I am passionate about technology, innovation, and big challenging tasks on my to do list."
 
-# 💻 Tech Stack:
-<img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/stickers/100/null/sql.png"/> <img src="https://img.icons8.com/color/48/null/postgreesql.png"/> <img src="https://img.icons8.com/fluency/48/null/azure-1.png"/> <img src="https://img.icons8.com/color/48/null/power-bi.png"/> <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/null/external-visualization-big-data-wanicon-lineal-color-wanicon.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo.png"/>
-
 [![Linkedin: Suraj Kumar](https://img.shields.io/badge/-SurajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-372048203/)](https://www.linkedin.com/in/suraj-kumar-372048203/)
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=suraj-kumar-372048203" target="_blank">Follow on LinkedIn</a>
 [![GitHub SurajKumar](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/surajkumar089)
 
 Email: surajkumar0892@gmail.com
 
+
+
+
+# 💻 Tech Stack:
+<img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/stickers/100/null/sql.png"/> <img src="https://img.icons8.com/color/48/null/postgreesql.png"/> <img src="https://img.icons8.com/fluency/48/null/azure-1.png"/> <img src="https://img.icons8.com/color/48/null/power-bi.png"/> <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/null/external-visualization-big-data-wanicon-lineal-color-wanicon.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-color-tal-revivo.png"/>
 
 
 # 📊 GitHub Stats:
