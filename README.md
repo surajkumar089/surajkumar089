@@ -1,8 +1,8 @@
 ## Hello, I'm Suraj Kumar! 👋
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="surajkumar089" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajkumar089&label=Views&color=blue&style=plastic" alt="surajkumar089" /> </p>
+iampawan
 [![](https://visitcount.itsvg.in/api?id=surajkumar089&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://visitor-badge.glitch.me/badge?page_id=surajkumar089.surajkumar089)
 
