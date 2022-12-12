@@ -20,7 +20,7 @@
 - 💬 Ask me about Data & Technologies or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @Surajkumar](https://www.linkedin.com/in/suraj-kumar-372048203)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I would love to work with same minded people like me as a team.
+- ⚡ Fun fact: "I am passionate about technology, innovation, and big challenging tasks on my to do list."
 
 [![Linkedin: Suraj Kumar](https://img.shields.io/badge/-SurajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-372048203/)](https://www.linkedin.com/in/suraj-kumar-372048203/)
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=suraj-kumar-372048203" target="_blank">Follow on LinkedIn</a>
