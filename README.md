@@ -23,8 +23,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: "I am passionate about technology, innovation, and big challenging tasks on my to do list."
 
-[]<img src="https://img.icons8.com/color/48/null/power-bi.png"/>
-[](https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png)
+# 💻 Tech Stack:
+![Python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 
 [![Linkedin: Suraj Kumar](https://img.shields.io/badge/-SurajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-372048203/)](https://www.linkedin.com/in/suraj-kumar-372048203/)
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=suraj-kumar-372048203" target="_blank">Follow on LinkedIn</a>
