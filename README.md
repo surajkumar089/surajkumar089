@@ -31,7 +31,13 @@ Email: surajkumar0892@gmail.com
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajkumar089&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=surajkumar089&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=surajkumar089&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumar089&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=surajkumar089&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 <!--
 surajkumar089/surajkumar089 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
