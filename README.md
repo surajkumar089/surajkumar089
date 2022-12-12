@@ -3,7 +3,6 @@
 [![](https://visitcount.itsvg.in/api?id=surajkumar089&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://visitor-badge.glitch.me/badge?page_id=surajkumar089.surajkumar089)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="surajkumar089" /> </p>
 
 
 <a href="https://www.linkedin.com/in/suraj-kumar-372048203">
@@ -29,6 +28,7 @@
 [![GitHub SurajKumar](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/surajkumar089)
 
 Email: surajkumar0892@gmail.com
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajkumar089&theme=radical)
