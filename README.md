@@ -1,9 +1,10 @@
+<img align="Right" img width="287" alt="image" src="https://user-images.githubusercontent.com/82973819/208291661-f0774b86-f85d-439f-8372-d538434259f4.png">
+
 # Hello, I'm Suraj Kumar! 👋
 
 [![](https://visitcount.itsvg.in/api?id=surajkumar089&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://visitor-badge.glitch.me/badge?page_id=surajkumar089.surajkumar089)
 
-<img align="Right" img width="287" alt="image" src="https://user-images.githubusercontent.com/82973819/208291661-f0774b86-f85d-439f-8372-d538434259f4.png">
 
 
 <a href="https://www.linkedin.com/in/suraj-kumar-372048203">
