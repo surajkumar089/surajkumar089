@@ -1,5 +1,4 @@
 <img align="Right" img width="330" alt="image" src="https://user-images.githubusercontent.com/82973819/208291661-f0774b86-f85d-439f-8372-d538434259f4.png">
-
 # Hello, I'm Suraj Kumar! 👋
 
 [![](https://visitcount.itsvg.in/api?id=surajkumar089&icon=0&color=0)](https://visitcount.itsvg.in)
