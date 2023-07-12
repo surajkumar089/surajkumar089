@@ -2,8 +2,6 @@
 
 # Hello, I'm Suraj Kumar! 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=surajkumar089)
-
 
 
 <a href="https://www.linkedin.com/in/suraj-kumar-372048203">
