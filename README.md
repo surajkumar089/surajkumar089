@@ -2,7 +2,7 @@
 
 # Hello, I'm Suraj Kumar! 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=surajkumar089.surajkumar089)
+![](https://visitor-badge.glitch.me/badge?page_id=surajkumar089)
 
 
 
