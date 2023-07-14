@@ -11,10 +11,7 @@
 </a>
 <a href="https://github.com/surajkumar089">
   <img align="left" alt="Suraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-[!(https://img.shields.io/badge/-SurajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar12/)](https://www.linkedin.com/in/suraj-kumar12/)
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=suraj-kumar-372048203" target="_blank">Follow on LinkedIn</a>
-</a>
+
 <br/>
 <br/>
 
