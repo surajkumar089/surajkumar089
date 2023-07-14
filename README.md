@@ -6,7 +6,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/suraj-kumar-372048203">
+<a href="https://www.linkedin.com/in/suraj-kumar12">
   <img align="left" alt="Suraj's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: brightness(0) invert(1);" />
 </a>
 <a href="https://github.com/surajkumar089">
