@@ -6,8 +6,8 @@
 
 
 
-<a href="https://www.linkedin.com/in/suraj-kumar-372048203">
-  <img align="left" alt="Suraj's LinkedIn" width="22px" src="https://raw.githubusercontent.com/surajkumar089/LinkedIn-Logo-Images/main/linkedin-blue.png" />
+<a href="https://www.linkedin.com/in/suraj12">
+  <img align="left" alt="Suraj's LinkedIn" width="22px" src="path/to/linkedin-logo.png"/>
 </a>
 <a href="https://github.com/surajkumar089">
   <img align="left" alt="Suraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
