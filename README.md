@@ -12,7 +12,8 @@
 <a href="https://github.com/surajkumar089">
   <img align="left" alt="Suraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+(https://img.shields.io/badge/-SurajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar12/)](https://www.linkedin.com/in/suraj-kumar12/)
+</a>
 <br/>
 <br/>
 
