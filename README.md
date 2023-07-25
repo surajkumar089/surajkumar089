@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 🔭 Data Analytics & Scientist, Data Engineer Enthusiast.
+- 🔭 Data Analytics & Scientist, Data Engineer.
 - 🌱 I’m currently learning more about Full Stack Data Science.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Data & Technologies or any tech related stuff.
