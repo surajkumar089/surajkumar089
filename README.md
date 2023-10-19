@@ -1,6 +1,6 @@
 <img align="Right" img width="330" alt="image" src="https://user-images.githubusercontent.com/82973819/208291661-f0774b86-f85d-439f-8372-d538434259f4.png">
 
-# Hello, I'm Suraj Kumar! 👋
+#  👋 Hi, I’m <a href="[https://www.linkedin.com/in/suraj-kumar12/" target="blank">Suraj Kumar</a>
 
 
 
