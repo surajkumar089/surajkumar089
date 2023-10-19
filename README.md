@@ -15,11 +15,10 @@
 <br/>
 <br/>
 
-- 🔭 Data Analytics & Scientist, Data Engineer.
+- 🔭 Data Scientist, Data Engineer.
 - 🌱 I’m currently working as a Data Analytics & Scientist @ I-PAC.
 - 💞️ I’m looking to collaborate on data science project.
 - 📫 How to reach me: [Linkedin - @Surajkumar](https://www.linkedin.com/in/suraj-kumar12)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: "I am passionate about technology, innovation, and big challenging tasks on my to do list."
 
 [![Linkedin: Suraj Kumar](https://img.shields.io/badge/-SurajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar12/)](https://www.linkedin.com/in/suraj-kumar12/)
