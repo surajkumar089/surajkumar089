@@ -16,9 +16,8 @@
 <br/>
 
 - 🔭 Data Analytics & Scientist, Data Engineer.
-- 🌱 I’m currently learning more about Full Stack Data Science.
-- 🤔 I’m looking for help with career guidance.
-- 💬 Ask me about Data & Technologies or any tech related stuff.
+- 🌱 I’m currently working as a Data Analytics & Scientist @ I-PAC.
+- 💞️ I’m looking to collaborate on data science project.
 - 📫 How to reach me: [Linkedin - @Surajkumar](https://www.linkedin.com/in/suraj-kumar12)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: "I am passionate about technology, innovation, and big challenging tasks on my to do list."
