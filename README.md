@@ -16,7 +16,7 @@
 <br/>
 
 - 🔭 Data Scientist, Data Engineer.
-- 🌱 I’m currently working as a Data Analytics & Scientist @ I-PAC.
+- 🌱 I’m currently working as a Data Analytics & Scientist @ I-PAC(CitizensAlliance).
 - 💞️ I’m looking to collaborate on data science project.
 - 📫 How to reach me: [Linkedin - @Surajkumar](https://www.linkedin.com/in/suraj-kumar12)
 - ⚡ Fun fact: "I am passionate about technology, innovation, and big challenging tasks on my to do list."
