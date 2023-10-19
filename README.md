@@ -45,7 +45,6 @@ Email: surajkumar0892@gmail.com
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surajkumar089&theme=darcula&hide_border=false)<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=surajkumar089&show_icons=true&theme=dark" width="500">
 <!--
 surajkumar089/surajkumar089 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
