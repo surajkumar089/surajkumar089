@@ -2,7 +2,6 @@
 
 # 👋 Hi, I’m <a href="https://www.linkedin.com/in/suraj-kumar12/" target="blank">Suraj Kumar</a>
 <br/>
-<br/>
 
 - 🔭 Data Scientist, Data Engineer.
 - 🌱 I’m currently working as a Data Analytics & Scientist @ I-PAC(CitizensAlliance).
