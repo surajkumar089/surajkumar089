@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 Data Scientist, Data Engineer.
-- 🌱 I’m currently working as a Data Scientist & Analytics @ CAPL.
+- 🌱 I’m currently working as a Data Science Analyst @ CAPL.
 - 💞️ I’m looking to collaborate on Data Science project.
 - 📫 How to reach me: [Linkedin - @Surajkumar](https://www.linkedin.com/in/suraj-kumar12)
 - ⚡ I am passionate about technology, innovation, and big challenging tasks on my to-do list 😃
